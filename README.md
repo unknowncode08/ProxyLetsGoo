@@ -1,4 +1,4 @@
-# Womginx
+# ProxyLetsGo
 
 > Fastest proxy using only nginx as the backend server
 
@@ -6,9 +6,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-Demo: https://womginx.arph.org
-
-~~Heroku Docker demo: https://womginx.herokuapp.com~~ taken down for now. If you need one, deploy one using the button above or use the demo link.
+Website: https://scratch-4.herokuapp.com
 
 ## Site compatibility
 
@@ -120,8 +118,3 @@ Make another client rewriting library similar to wombat but made with intent to 
 This project is licensed under the AGPL license.
 
 Wombat uses AGPL, and under the terms of that license, this project, therefore, is also required to be licensed under AGPL.
-
-## Credits
-
-- Front page design by [voept](https://github.com/voept)
-- Logo design by [kinglalu](https://github.com/kinglalu)
